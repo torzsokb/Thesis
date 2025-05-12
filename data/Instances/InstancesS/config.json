@@ -1,0 +1,53 @@
+{
+  "donorCountProbabilities": [
+    1,
+    0,
+    0,
+    0
+  ],
+  "patientBtDistribution": {
+    "probO": 0.65,
+    "probA": 0.2,
+    "probB": 0.13,
+    "probAB": 0.02
+  },
+  "probSpousal": 0,
+  "probFemale": 0,
+  "probSpousalPraCompatibility": 0,
+  "numberOfInstances": 10,
+  "patientsPerInstance": 50,
+  "proportionAltruistic": 0.1,
+  "fileFormat": "xml",
+  "donorBtDistributionByPatientO": {
+    "probO": 0.212,
+    "probA": 0.515,
+    "probB": 0.243,
+    "probAB": 0.03
+  },
+  "donorBtDistributionByPatientA": {
+    "probO": 0.284,
+    "probA": 0.464,
+    "probB": 0.108,
+    "probAB": 0.144
+  },
+  "donorBtDistributionByPatientB": {
+    "probO": 0.4,
+    "probA": 0.4,
+    "probB": 0.1,
+    "probAB": 0.1
+  },
+  "donorBtDistributionByPatientAB": {
+    "probO": 0.398,
+    "probA": 0.398,
+    "probB": 0.068,
+    "probAB": 0.136
+  },
+  "donorBtDistributionByPatientNDD": {
+    "probO": 0.667,
+    "probA": 0,
+    "probB": 0,
+    "probAB": 0.333
+  },
+  "praBandsString": "0.32 0.0 0.05\n0.2 0.05 0.505\n0.31 0.505 0.965\n0.17 0.965 1",
+  "fullDetails": true
+}
